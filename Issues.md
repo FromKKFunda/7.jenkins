@@ -8,6 +8,14 @@ Solution:
 Got Jenkins Default directory: cd /var/lib/jenkins/
 
 tools >>> husdson folder >>>>> maven 3.x.x > conf >>> settings.xml                                                find / -name settings.xml
+  
+   
+   
+   
+   
+   
+   
+   
    <server>
       <id>nexus</id>
       <username>admin</username>
