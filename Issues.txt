@@ -15,3 +15,12 @@ tools >>> husdson folder >>>>> maven 3.x.x > conf >>> settings.xml              
       <username>admin</username>
       <password>Mani52@1</password>
     </server>
+=============================================================================================================================================================================================================================
+
+Once artifact generated it will stpred in to 
+/var/lib/jenkins/workspace/free/target/maven-web-application.war
+
+=============================================================================================================================================================================================================================
+Jenkins and Tomcat integration plugin
+
+To establish a connection between Jenkins and Tomcat, we need to install the "Deploy to containerVersion" plugin 
